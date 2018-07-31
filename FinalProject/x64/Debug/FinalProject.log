@@ -1,0 +1,28 @@
+﻿  TextBox.cpp
+  Source.cpp
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\source.cpp(13): warning C4101: 'recordIn': unreferenced local variable
+  panel.cpp
+  NumericBox.cpp
+  Label.cpp
+  Graphics.cpp
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\graphics.cpp(42): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\graphics.cpp(53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\graphics.cpp(104): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  EventEngine.cpp
+  Control.cpp
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\control.cpp(119): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\control.cpp(125): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\control.cpp(134): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\control.cpp(140): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\control.cpp(146): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\control.cpp(152): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  CheckList.cpp
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\checklist.cpp(28): warning C4101: 'fdwMode': unreferenced local variable
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\checklist.cpp(22): warning C4101: 'fdwSaveOldMode': unreferenced local variable
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\checklist.cpp(28): warning C4101: 'cNumRead': unreferenced local variable
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\checklist.cpp(29): warning C4101: 'irInBuf': unreferenced local variable
+c:\users\hallumi\desktop\mm\finalprojectmethodsse\finalproject\checklist.cpp(28): warning C4101: 'i': unreferenced local variable
+  Button.cpp
+  Generating Code...
+  FinalProject.vcxproj -> C:\Users\hallumi\Desktop\mm\FinalProjectMethodsSE\x64\Debug\FinalProject.exe
+  FinalProject.vcxproj -> C:\Users\hallumi\Desktop\mm\FinalProjectMethodsSE\x64\Debug\FinalProject.pdb (Partial PDB)

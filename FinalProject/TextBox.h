@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
-#include "../Common/Control.h"
-#include "../Common/Graphics.h"
+#include "Control.h"
+#include "Graphics.h"
 
 class TextBox : public Control
 {

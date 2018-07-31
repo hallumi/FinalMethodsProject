@@ -1,6 +1,6 @@
 #include "Label.h"
-#include "../Common/Graphics.h"
-#include "../Common/Control.h"
+#include "Graphics.h"
+#include "Control.h"
 #include <iostream>
 
 

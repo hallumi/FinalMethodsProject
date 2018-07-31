@@ -1,8 +1,8 @@
 #pragma once
 
 #include <vector>
-#include "../Common/EventEngine.h"
-#include "../Common/Graphics.h"
+#include "EventEngine.h"
+#include "Graphics.h"
 
 
 class NumericBox : public Control

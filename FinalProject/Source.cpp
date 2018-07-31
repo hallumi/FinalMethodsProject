@@ -1,7 +1,7 @@
-#include "../Common/Graphics.h"
+#include "Graphics.h"
 #include "panel.h"
-#include "../Common/EventEngine.h"
-#include "../Common/Control.h"
+#include "EventEngine.h"
+#include "Control.h"
 #include <iostream>
 
 using namespace std;

@@ -1,8 +1,8 @@
 #pragma once
-#include "../Common/Graphics.h"
+#include "Graphics.h"
 #include "Label.h"
-#include "../Common/EventEngine.h"
-#include "../Common/Control.h"
+#include "EventEngine.h"
+#include "Control.h"
 #include "panel.h"
 
 class form 

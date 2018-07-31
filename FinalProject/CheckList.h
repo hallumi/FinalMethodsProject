@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../Common/Control.h"
+#include "Control.h"
 
 class CheckList : public Control
 {

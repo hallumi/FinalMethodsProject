@@ -1,7 +1,7 @@
 #pragma once
-#include "../Common/Control.h"
-#include "../Common/Graphics.h"
-#include "../Common/EventEngine.h"
+#include "Control.h"
+#include "Graphics.h"
+#include "EventEngine.h"
 #include "TextBox.h"
 
 

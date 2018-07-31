@@ -1,5 +1,5 @@
 #include "CheckList.h"
-#include "../Common/Graphics.h"
+#include "Graphics.h"
 #include <iostream>
 
 using namespace std;

@@ -1,5 +1,5 @@
 #include "panel.h"
-#include "../Common/Graphics.h"
+#include "Graphics.h"
 #include "TextBox.h"
 #include "Label.h"
 #include "Button.h"

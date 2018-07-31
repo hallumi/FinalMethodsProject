@@ -1,7 +1,7 @@
 #pragma once
-#include "../common/Control.h"
-#include "../common/Graphics.h"
-#include "../common/EventEngine.h"
+#include "Control.h"
+#include "Graphics.h"
+#include "EventEngine.h"
 #include <vector>
 #include <string>
 
