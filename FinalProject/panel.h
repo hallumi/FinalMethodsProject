@@ -7,18 +7,16 @@
 
 
 
-class panel: public Control
+class panel : public Control
 {
 
 private:
 
-	int width,height ;
-	
-
-	
+	int width, height;
 
 public:
 	panel(int x, int y, int width, int height);
+	void ActivateObjects();
 	~panel();
 	// getters and setters
 
@@ -27,19 +25,22 @@ public:
 	int getWidth() {return width;}
 	int getHeight() {return height;}*/
 
-	//Control class methods
-
-	void draw(int,int,int,int,Border border);
-
-	
-	
-
-
-	
-
-
 
 
 
 };
+
+	
+
+	
+	
+
+
+	
+
+
+
+
+
+
 

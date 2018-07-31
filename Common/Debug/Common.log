@@ -1,2 +1,8 @@
-﻿  EventEngine.cpp
+﻿  Control.cpp
+c:\users\hallumi\desktop\engineering methods\finalprojectmethodsse\common\control.cpp(119): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\engineering methods\finalprojectmethodsse\common\control.cpp(125): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\engineering methods\finalprojectmethodsse\common\control.cpp(134): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\engineering methods\finalprojectmethodsse\common\control.cpp(140): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\engineering methods\finalprojectmethodsse\common\control.cpp(146): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\hallumi\desktop\engineering methods\finalprojectmethodsse\common\control.cpp(152): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
   Common.vcxproj -> C:\Users\hallumi\Desktop\engineering methods\FinalProjectMethodsSE\Debug\Common.lib

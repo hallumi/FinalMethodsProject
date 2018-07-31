@@ -104,6 +104,60 @@ Control::Control()
 	//g->clearScreen();
 
 }
+string Control::writeInText(string _s)
+{
+	cin >> _s;
+	this->text = _s;
+	return _s;
+	
+}
+void Control::mousePressed(int x, int y, bool button)
+{
+	string s,S;
+	Graphics Gr;
+	
+	if ( x >= 11 && x < 90 &&  y > 28 && y <35 && button == FROM_LEFT_1ST_BUTTON_PRESSED || button == RIGHTMOST_BUTTON_PRESSED)
+	{
+		Gr.moveTo(11, 29);
+		cin >> s;
+		
+	}
+	if (x == 63 && y == 13 && button == FROM_LEFT_1ST_BUTTON_PRESSED || button == RIGHTMOST_BUTTON_PRESSED)
+	{
+		Gr.moveTo(63, 13);
+		cout << "\xCF";
+		Gr.write(11, 11, "Sport");
+		
+		S = "Sport";
+		Gr.setStringG(S);
+	}
+	if (x == 77 && y == 13 && button == FROM_LEFT_1ST_BUTTON_PRESSED || button == RIGHTMOST_BUTTON_PRESSED)
+	{
+		Gr.moveTo(77, 13);
+		cout << "\xCF";
+		Gr.write(11, 12, "Movies");
+
+	}if (x == 63 && y == 17 && button == FROM_LEFT_1ST_BUTTON_PRESSED || button == RIGHTMOST_BUTTON_PRESSED)
+	{
+		Gr.moveTo(63, 17);
+		cout << "\xCF";
+		Gr.write(11, 13, "VideoGames");
+	}
+	if (x == 77 && y == 17 && button == FROM_LEFT_1ST_BUTTON_PRESSED || button == RIGHTMOST_BUTTON_PRESSED)
+	{
+		Gr.moveTo(77, 17);
+		cout << "\xCF";
+		Gr.write(11, 14, "MotorCycle");
+	}
+	if (x >45 && x < 58 && y > 35 && y <37  && button == FROM_LEFT_1ST_BUTTON_PRESSED || button == RIGHTMOST_BUTTON_PRESSED)
+	{
+		Gr.moveTo(11, 11);
+		setString(s);
+
+	}
+
+
+}
 
 
 

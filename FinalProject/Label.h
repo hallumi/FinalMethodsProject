@@ -5,7 +5,7 @@
 #include <vector>
 #include <string>
 
-class Label: public Control
+class Label: public Control ,public Graphics
 {
 private:
 	int _left, _bottom, _width, _height;
